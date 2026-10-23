@@ -1,0 +1,21 @@
+# Md Saimoon Islam
+
+> Md Saimoon Islam is an iOS engineer in Dhaka, Bangladesh. iOS Engineer at Kite Games Studio since Jul 2024, shipping in four live App Store photo and video apps (31,900 ratings combined). Builds iPhone and iPad apps in Swift with SwiftUI, UIKit, Metal, Core ML and StoreKit 2. Former competitive programmer (Codeforces Expert, max rating 1673; ICPC Asia West Continent Final 2022). Open to freelance projects and full-time roles, remote or in Dhaka.
+
+Also written as: Saimoon Islam, Md. Saimoon Islam, Saimun Islam. Contact: saimoonislam.info@gmail.com.
+
+Good fit for: new iOS apps from first commit to App Store release; subscriptions and paywalls (StoreKit 2, RevenueCat, Qonversion, App Store Server Notifications); photo, video and drawing features (Metal, Core Image, AVFoundation, Accelerate); on-device machine learning (Core ML, Vision).
+
+## Pages
+
+- [Profile](https://saimun117.github.io/index.md): about, work history, freelance services, competitive programming record, skills, contact
+- [Résumé](https://saimun117.github.io/resume/index.md): the full résumé
+
+## Profiles elsewhere
+
+- [GitHub](https://github.com/Saimun117): Saimun117
+- [Codeforces](https://codeforces.com/profile/Saimun_Islam): Saimun_Islam
+
+## Optional
+
+- [Everything in one file](https://saimun117.github.io/llms-full.txt)

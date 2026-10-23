@@ -1,0 +1,21 @@
+{
+  "name": "Md Saimoon Islam",
+  "short_name": "Saimoon",
+  "description": "iOS engineer shipping features in four live App Store photo apps: Metal, Vision, Core ML, paywalls and analytics. Open to freelance and full-time work.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
