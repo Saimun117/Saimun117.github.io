@@ -1,0 +1,21 @@
+{
+  "name": "Md Saimoon Islam",
+  "short_name": "Saimoon",
+  "description": "iOS engineer contributing to four live App Store apps. Swift, UIKit, SwiftUI, Metal photo editing and subscriptions. Open to full-time and freelance work.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
